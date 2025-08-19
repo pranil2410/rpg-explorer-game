@@ -37,4 +37,16 @@ Your mission is to defeat monsters, earn XP, collect gold, and ultimately **slay
 ---
 
 ## 📂 Project Structure
+├── index.html # Main game structure
+├── styles.css # Styling and UI design
+└── script.js # Game logic and mechanics
+
+🖼️ Demo Screenshot
+
+<img width="677" height="262" alt="image" src="https://github.com/user-attachments/assets/6a9c6680-15ce-48b1-bf65-c207f1a785b5" />
+
+
+This project is open source under the MIT License.
+Feel free to fork, modify, and share!
+
 
