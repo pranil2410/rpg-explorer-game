@@ -38,7 +38,9 @@ Your mission is to defeat monsters, earn XP, collect gold, and ultimately **slay
 
 ## 📂 Project Structure
 ├── index.html # Main game structure
+
 ├── styles.css # Styling and UI design
+
 └── script.js # Game logic and mechanics
 
 🖼️ Demo Screenshot
